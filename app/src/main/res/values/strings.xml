@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NavigationDrawer1</string>
+    <string name="my_image">my image</string>
+    <string name="manikyapavan">manikyapavan</string>
+    <string name="manikypavan123_gmail_com">manikypavan123@gmail.com</string>
+    <string name="inbox">inbox</string>
+    <string name="starred">starred</string>
+    <string name="sent_mail">sent mail</string>
+    <string name="drafts">Drafts</string>
+    <string name="subheader">subheader</string>
+    <string name="all_mail">All mail</string>
+    <string name="trash">Trash</string>
+    <string name="spam">spam</string>
+    <string name="delete">delete</string>
+    <string name="openDrawer">openDrawer</string>
+    <string name="close_drwawer">closeDrawer</string>
+    <string name="item1">item1</string>
+    <string name="item2">item2</string>
+    <string name="setiings">settings</string>
+    <string name="About">About</string>
+
+</resources>
